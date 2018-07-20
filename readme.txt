@@ -1,4 +1,4 @@
 Creating a new branch is quick.
-YES
+YES OK
 Creating a branch is quick.
 
